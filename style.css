@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+GB+S:ital,wght@0,100..400;1,100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(168, 205, 126);
+    font-family: "Playwrite GB S", cursive;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+    margin-top: 150px;
+}
+
+#title{
+    text-align: center;
+    font-size: 35px;
+}
+
+#title:hover{
+    transform: scale(1.2);
+    transition: all 0.5s;
+}
+
+
+#inputText{
+    width: 300px;
+    height: 46px;
+    border: 1px solid rgb(108, 172, 108);
+    border-radius: 20px;
+    outline: none;
+    font-size: 25px;
+    vertical-align: middle;
+    color: rgb(104, 55, 63);
+}
+
+#addToDo{
+    height: 45px;
+    width: 80px;
+    border: 1px solid rgb(108, 172, 108);
+    border-radius: 20px;
+    background-color: rgb(23, 231, 23);
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#addToDo:active{
+    background-color: blue;
+}
+
+#clearToDo{
+    height: 45px;
+    width: 80px;
+    border: 1px solid rgb(108, 172, 108);
+    border-radius: 20px;
+    background-color: rgb(231, 15, 15);
+    color: white;
+    text-align: center;
+    cursor: pointer;
+}
+
+#clearToDo:active{
+    background-color: black;
+}
+
+.paragraph-styling{
+    margin: 0;
+    cursor: pointer;
+    font-size: 35px;
+    color: rgb(26, 17, 17);
+    text-transform: capitalize;
+}
+
+.to-dos{
+    margin-top: 25px;
+
+}
