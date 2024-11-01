@@ -9,7 +9,8 @@ Clear Tasks: Remove all tasks from the list with a single click.
 
 Minimalist UI: A clean and user-friendly design for easy task management.
 
-https://github.com/user-attachments/assets/f4afffa7-efdf-4817-92f8-6eacad1f5981
+![ScreenRecording2024-10-23at11 38 34PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/0f1b6bd3-4290-4aca-8baa-0a7584964e3b)
+
 
 
 Usage
